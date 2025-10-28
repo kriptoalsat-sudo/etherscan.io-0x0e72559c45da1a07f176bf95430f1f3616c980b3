@@ -1,0 +1,14 @@
+{
+  "project": "Solucan Token (SLC)",
+  "contract_address": "0x0e72559c45da1a07f176bf95430f1f3616c980b3",
+  "network": "Ethereum Mainnet",
+  "chainId": 1,
+  "website": "https://slc.kriptoalsat.online",
+  "exchange": "https://kriptoalsat.online/tr/exchange/dashboard?coin_pair=SLC_USDT",
+  "description": "Solucan Token (SLC) is a decentralized ERC-20 token powering the Solucan ecosystem and liquidity tools across the Ethereum network.",
+  "socials": {
+    "github": "https://github.com/kriptoalsat-sudo",
+    "telegram": "https://t.me/kriptoalsat",
+    "twitter": "https://x.com/kriptoalsat"
+  }
+}
