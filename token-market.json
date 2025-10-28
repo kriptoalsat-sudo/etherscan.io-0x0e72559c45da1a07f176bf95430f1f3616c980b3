@@ -1,0 +1,10 @@
+{
+  "pair": "SLC/USDT",
+  "exchange": "KriptoAlSat Exchange",
+  "url": "https://kriptoalsat.online/tr/exchange/dashboard?coin_pair=SLC_USDT",
+  "base": "SLC",
+  "quote": "USDT",
+  "last_price": 0.00,
+  "volume_24h": 0,
+  "source": "official"
+}
